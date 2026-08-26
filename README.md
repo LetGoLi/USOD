@@ -1,5 +1,5 @@
 # USOD
-* The USOD dataset is the largest underwater sonar object detection dataset. 
+* To the best of our knowledge, USOD dataset is the largest underwater sonar object detection dataset. 
 * The USOD dataset supports annotations in both COCO and YOLO formats.
 ![image](https://github.com/LetGoLi/USOD/blob/main/github/overall.jpg)
 ## Download
