@@ -4,5 +4,5 @@
 ![image](https://github.com/LetGoLi/USOD/blob/main/github/overall.jpg)
 ## Download
 * The dataset is currently available for peer-review purposes.
-*The permanent public download link will be released upon acceptance/publication.
+* The permanent public download link will be released upon acceptance/publication.
 
